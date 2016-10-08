@@ -27,7 +27,7 @@ namespace SquareOfStars
                     if (y > 0)
                     {
                         //Print either star or space
-                        //Blank if inside square
+                        //Blank if inside square test1
                     }
                     else
                     {
